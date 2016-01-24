@@ -1,0 +1,561 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = A9771A2E153B29C3001B92E2 /* MidiSheetMusic */;
+		activeSDKPreference = macosx10.5;
+		activeTarget = 8D1107260486CEB800E47090 /* MidiSheetMusic */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* MidiSheetMusic */,
+		);
+		codeSenseManager = A9771A39153B29CA001B92E2 /* Code sense */;
+		executables = (
+			A9771A2E153B29C3001B92E2 /* MidiSheetMusic */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBookmarksDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					200,
+					348,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBookmarksDataSource_LocationID,
+					PBXBookmarksDataSource_NameID,
+					PBXBookmarksDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					428.20849609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					425.58349609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					538,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					498,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 396940279;
+			PBXWorkspaceStateSaveDate = 396940279;
+		};
+		perUserProjectItems = {
+			A92FB18117A64E3C00A0B104 /* PBXTextBookmark */ = A92FB18117A64E3C00A0B104 /* PBXTextBookmark */;
+			A92FB18217A64E3C00A0B104 /* PBXTextBookmark */ = A92FB18217A64E3C00A0B104 /* PBXTextBookmark */;
+			A92FB18317A64E3C00A0B104 /* PBXTextBookmark */ = A92FB18317A64E3C00A0B104 /* PBXTextBookmark */;
+			A92FB18617A64E3C00A0B104 /* PBXTextBookmark */ = A92FB18617A64E3C00A0B104 /* PBXTextBookmark */;
+			A92FB1C017A6539200A0B104 /* PBXTextBookmark */ = A92FB1C017A6539200A0B104 /* PBXTextBookmark */;
+			A972192E179D0B3200A45BF3 /* PBXTextBookmark */ = A972192E179D0B3200A45BF3 /* PBXTextBookmark */;
+			A974313A178A360800A266D8 /* PBXTextBookmark */ = A974313A178A360800A266D8 /* PBXTextBookmark */;
+			A97C67B217A4D999009089E4 /* PBXTextBookmark */ = A97C67B217A4D999009089E4 /* PBXTextBookmark */;
+			A97C67B417A4D999009089E4 /* PBXTextBookmark */ = A97C67B417A4D999009089E4 /* PBXTextBookmark */;
+			A97C67B517A4D999009089E4 /* PBXTextBookmark */ = A97C67B517A4D999009089E4 /* PBXTextBookmark */;
+			A97C67B617A4D999009089E4 /* PBXTextBookmark */ = A97C67B617A4D999009089E4 /* PBXTextBookmark */;
+			A97C67B717A4D999009089E4 /* PBXTextBookmark */ = A97C67B717A4D999009089E4 /* PBXTextBookmark */;
+			A97E4FF917A8D408003F72D9 /* PBXTextBookmark */ = A97E4FF917A8D408003F72D9 /* PBXTextBookmark */;
+			A97E500717A8D510003F72D9 /* PBXTextBookmark */ = A97E500717A8D510003F72D9 /* PBXTextBookmark */;
+			A97E8C7217A647FC00D869C0 /* PBXTextBookmark */ = A97E8C7217A647FC00D869C0 /* PBXTextBookmark */;
+			A97E8C7317A647FC00D869C0 /* PBXTextBookmark */ = A97E8C7317A647FC00D869C0 /* PBXTextBookmark */;
+			A97E8C7717A647FC00D869C0 /* PBXTextBookmark */ = A97E8C7717A647FC00D869C0 /* PBXTextBookmark */;
+			A9C9035817777A2800B7249F /* PlistBookmark */ = A9C9035817777A2800B7249F /* PlistBookmark */;
+			A9C989681781524A00887E3C /* PBXTextBookmark */ = A9C989681781524A00887E3C /* PBXTextBookmark */;
+			A9E2AC2B1786279800A04083 /* PBXTextBookmark */ = A9E2AC2B1786279800A04083 /* PBXTextBookmark */;
+			A9E2AC2C1786279800A04083 /* PBXTextBookmark */ = A9E2AC2C1786279800A04083 /* PBXTextBookmark */;
+			A9F4CA7017777ABC00340042 /* PBXBookmark */ = A9F4CA7017777ABC00340042 /* PBXBookmark */;
+			A9F4CA7217777ABC00340042 /* PBXBookmark */ = A9F4CA7217777ABC00340042 /* PBXBookmark */;
+			A9F4CABA17779E7400340042 /* PBXTextBookmark */ = A9F4CABA17779E7400340042 /* PBXTextBookmark */;
+			A9F4CABC17779E7400340042 /* PBXTextBookmark */ = A9F4CABC17779E7400340042 /* PBXTextBookmark */;
+		};
+		sourceControlManager = A9771A38153B29CA001B92E2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* MidiSheetMusic */ = {
+		activeExec = 0;
+		executables = (
+			A9771A2E153B29C3001B92E2 /* MidiSheetMusic */,
+		);
+	};
+	A92FB18117A64E3C00A0B104 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9C9020D177777B400B7249F /* Piano.m */;
+		name = "Piano.m: 391";
+		rLen = 0;
+		rLoc = 14403;
+		rType = 0;
+		vrLen = 730;
+		vrLoc = 13920;
+	};
+	A92FB18217A64E3C00A0B104 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9C90219177777B400B7249F /* Staff.m */;
+		name = "Staff.m: 280";
+		rLen = 0;
+		rLoc = 7898;
+		rType = 0;
+		vrLen = 583;
+		vrLoc = 7616;
+	};
+	A92FB18317A64E3C00A0B104 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9C90215177777B400B7249F /* SheetMusic.m */;
+		name = "SheetMusic.m: 1320";
+		rLen = 0;
+		rLoc = 44530;
+		rType = 0;
+		vrLen = 631;
+		vrLoc = 44292;
+	};
+	A92FB18617A64E3C00A0B104 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9C9020D177777B400B7249F /* Piano.m */;
+		name = "Piano.m: 391";
+		rLen = 0;
+		rLoc = 14403;
+		rType = 0;
+		vrLen = 730;
+		vrLoc = 13920;
+	};
+	A92FB1C017A6539200A0B104 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9C901D9177777B400B7249F /* Array.m */;
+		name = "Array.m: 96";
+		rLen = 0;
+		rLoc = 2488;
+		rType = 0;
+		vrLen = 623;
+		vrLoc = 2415;
+	};
+	A972192E179D0B3200A45BF3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9C901F4177777B400B7249F /* MidiFile.m */;
+		name = "MidiFile.m: 1562";
+		rLen = 0;
+		rLoc = 54605;
+		rType = 0;
+		vrLen = 825;
+		vrLoc = 53785;
+	};
+	A974313A178A360800A266D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9C903441777799300B7249F /* UnitTest.m */;
+		name = "UnitTest.m: 2674";
+		rLen = 0;
+		rLoc = 92843;
+		rType = 0;
+		vrLen = 1032;
+		vrLoc = 36855;
+	};
+	A9771A2E153B29C3001B92E2 /* MidiSheetMusic */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MidiSheetMusic;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	A9771A38153B29CA001B92E2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	A9771A39153B29CA001B92E2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A97C67B217A4D999009089E4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9C901E4177777B400B7249F /* FlippedView.h */;
+		name = "FlippedView.h: 12";
+		rLen = 0;
+		rLoc = 451;
+		rType = 0;
+		vrLen = 551;
+		vrLoc = 0;
+	};
+	A97C67B417A4D999009089E4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9C901FC177777B400B7249F /* MidiOptions.m */;
+		name = "MidiOptions.m: 67";
+		rLen = 0;
+		rLoc = 1831;
+		rType = 0;
+		vrLen = 762;
+		vrLoc = 1356;
+	};
+	A97C67B517A4D999009089E4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9C901E4177777B400B7249F /* FlippedView.h */;
+		name = "FlippedView.h: 12";
+		rLen = 0;
+		rLoc = 451;
+		rType = 0;
+		vrLen = 551;
+		vrLoc = 0;
+	};
+	A97C67B617A4D999009089E4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9C90219177777B400B7249F /* Staff.m */;
+		name = "Staff.m: 295";
+		rLen = 0;
+		rLoc = 8348;
+		rType = 0;
+		vrLen = 782;
+		vrLoc = 8150;
+	};
+	A97C67B717A4D999009089E4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9C90215177777B400B7249F /* SheetMusic.m */;
+		name = "SheetMusic.m: 441";
+		rLen = 0;
+		rLoc = 15163;
+		rType = 0;
+		vrLen = 798;
+		vrLoc = 14797;
+	};
+	A97E4FF917A8D408003F72D9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9F4CA7C17778C3600340042 /* midisheetmusic.settings.json */;
+		name = "midisheetmusic.settings.json: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	A97E500717A8D510003F72D9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9F4CA7C17778C3600340042 /* midisheetmusic.settings.json */;
+		name = "midisheetmusic.settings.json: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	A97E8C7217A647FC00D869C0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9C901F4177777B400B7249F /* MidiFile.m */;
+		name = "MidiFile.m: 1562";
+		rLen = 0;
+		rLoc = 54605;
+		rType = 0;
+		vrLen = 847;
+		vrLoc = 52622;
+	};
+	A97E8C7317A647FC00D869C0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9C90202177777B400B7249F /* MidiTrack.m */;
+		name = "MidiTrack.m: 153";
+		rLen = 0;
+		rLoc = 4488;
+		rType = 0;
+		vrLen = 657;
+		vrLoc = 4269;
+	};
+	A97E8C7717A647FC00D869C0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9C90202177777B400B7249F /* MidiTrack.m */;
+		name = "MidiTrack.m: 153";
+		rLen = 0;
+		rLoc = 4488;
+		rType = 0;
+		vrLen = 657;
+		vrLoc = 4269;
+	};
+	A98FB5FE153B30AC00D9E5E7 /* UnitTest */ = {
+		activeExec = 0;
+	};
+	A9C901D9177777B400B7249F /* Array.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 2386}}";
+			sepNavSelRange = "{2340, 57}";
+			sepNavVisRange = "{2208, 362}";
+		};
+	};
+	A9C901E4177777B400B7249F /* FlippedView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {716, 432}}";
+			sepNavSelRange = "{451, 0}";
+			sepNavVisRange = "{0, 551}";
+		};
+	};
+	A9C901E5177777B400B7249F /* FlippedView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 1018}}";
+			sepNavSelRange = "{798, 0}";
+			sepNavVisRange = "{668, 254}";
+		};
+	};
+	A9C901F1177777B400B7249F /* MidiEvent.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 1482}}";
+			sepNavSelRange = "{2963, 5}";
+			sepNavVisRange = "{2635, 334}";
+		};
+	};
+	A9C901F4177777B400B7249F /* MidiFile.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {716, 35150}}";
+			sepNavSelRange = "{54605, 0}";
+			sepNavVisRange = "{52622, 847}";
+		};
+	};
+	A9C901F9177777B400B7249F /* MidiNote.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 779}}";
+			sepNavSelRange = "{1222, 0}";
+			sepNavVisRange = "{961, 269}";
+		};
+	};
+	A9C901FB177777B400B7249F /* MidiOptions.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 2185}}";
+			sepNavSelRange = "{4483, 0}";
+			sepNavVisRange = "{4267, 227}";
+		};
+	};
+	A9C901FC177777B400B7249F /* MidiOptions.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {716, 5206}}";
+			sepNavSelRange = "{1831, 0}";
+			sepNavVisRange = "{1356, 762}";
+		};
+	};
+	A9C90200177777B400B7249F /* MidiSheetMusic.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 9351}}";
+			sepNavSelRange = "{5729, 44}";
+			sepNavVisRange = "{4552, 378}";
+		};
+	};
+	A9C90202177777B400B7249F /* MidiTrack.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {716, 3572}}";
+			sepNavSelRange = "{4488, 0}";
+			sepNavVisRange = "{4269, 657}";
+		};
+	};
+	A9C90209177777B400B7249F /* NSDictionary+Extensions.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 1634}}";
+			sepNavSelRange = "{1571, 0}";
+			sepNavVisRange = "{1451, 421}";
+		};
+	};
+	A9C9020B177777B400B7249F /* NSMutableDictionary+Extensions.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 950}}";
+			sepNavSelRange = "{43, 0}";
+			sepNavVisRange = "{0, 312}";
+		};
+	};
+	A9C9020D177777B400B7249F /* Piano.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {876, 12616}}";
+			sepNavSelRange = "{14403, 0}";
+			sepNavVisRange = "{13920, 730}";
+		};
+	};
+	A9C90215177777B400B7249F /* SheetMusic.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {884, 26657}}";
+			sepNavSelRange = "{44530, 0}";
+			sepNavVisRange = "{44292, 631}";
+		};
+	};
+	A9C90217177777B400B7249F /* SheetMusicWindow.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 35756}}";
+			sepNavSelRange = "{61344, 44}";
+			sepNavVisRange = "{61177, 213}";
+		};
+	};
+	A9C90219177777B400B7249F /* Staff.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {732, 12065}}";
+			sepNavSelRange = "{7898, 0}";
+			sepNavVisRange = "{7616, 583}";
+		};
+	};
+	A9C903441777799300B7249F /* UnitTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3212, 50122}}";
+			sepNavSelRange = "{92843, 0}";
+			sepNavVisRange = "{36855, 1032}";
+		};
+	};
+	A9C9035817777A2800B7249F /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = A9C903151777784400B7249F /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/madhav/programs/MidiSheetMusic-2.5-mac-src/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	A9C989681781524A00887E3C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9C901FC177777B400B7249F /* MidiOptions.m */;
+		name = "MidiOptions.m: 329";
+		rLen = 0;
+		rLoc = 8996;
+		rType = 0;
+		vrLen = 579;
+		vrLoc = 0;
+	};
+	A9D19C4D178A29B40023E1CC /* SavedMidiOptions.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 2614}}";
+			sepNavSelRange = "{802, 94}";
+			sepNavVisRange = "{655, 290}";
+		};
+	};
+	A9E2AC2B1786279800A04083 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9C903441777799300B7249F /* UnitTest.m */;
+		name = "UnitTest.m: 2697";
+		rLen = 0;
+		rLoc = 92843;
+		rType = 0;
+		vrLen = 1203;
+		vrLoc = 39617;
+	};
+	A9E2AC2C1786279800A04083 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9C901D9177777B400B7249F /* Array.m */;
+		name = "Array.m: 93";
+		rLen = 57;
+		rLoc = 2340;
+		rType = 0;
+		vrLen = 678;
+		vrLoc = 2062;
+	};
+	A9F4CA5717777A5B00340042 /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {716, 457}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 226}";
+		};
+	};
+	A9F4CA7017777ABC00340042 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = A98FB5EA153B2C7F00D9E5E7 /* NotePair.icns */;
+	};
+	A9F4CA7217777ABC00340042 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = A98FB5EA153B2C7F00D9E5E7 /* NotePair.icns */;
+	};
+	A9F4CA7C17778C3600340042 /* midisheetmusic.settings.json */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {716, 429}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 0}";
+		};
+	};
+	A9F4CABA17779E7400340042 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9F4CA5717777A5B00340042 /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 226;
+		vrLoc = 0;
+	};
+	A9F4CABC17779E7400340042 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9F4CA5717777A5B00340042 /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 226;
+		vrLoc = 0;
+	};
+}
